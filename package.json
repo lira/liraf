@@ -1,0 +1,23 @@
+{
+  "name": "liraf",
+  "version": "1.0.0",
+  "description": "Fernando Lira, the person.",
+  "main": "./info.json",
+  "bin": {
+    "liraf": "./liraf.js"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lira/liraf.git"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "contact",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lira/liraf/issues"
+  },
+  "homepage": "https://github.com/lira/liraf#readme"
+}
