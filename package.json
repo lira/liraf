@@ -5,7 +5,7 @@
   "main": "./info.json",
   "bin": {
     "liraf": "./liraf.js"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lira/liraf.git"
