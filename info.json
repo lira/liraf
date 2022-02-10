@@ -1,20 +1,20 @@
 {
-    "name": "Fernando Lira",
-    "website": "https://liraf.dev",
-    "twitch": "https://twitch.tv/fndolira",
-    "github": "https://github.com/lira",
-    "twitter": "https://twitter.com/liraf",
-    "instagram": "https://instagram.com/liraf",
-    "linkedin": "https://linkedin.com/in/liraf",
-    "company": [
-      {
-        "name": "Mercado Livre",
-        "position": "Developer",
-        "website": "https://mercadolivre.com.br",
-        "social": {
-          "github": "https://github.com/mercadolibre",
-          "linkedin": "https://www.linkedin.com/company/mercadolibre"
-        }
+  "name": "Fernando Lira",
+  "website": "https://liraf.dev",
+  "twitch": "https://twitch.tv/fndolira",
+  "github": "https://github.com/lira",
+  "twitter": "https://twitter.com/liraf",
+  "instagram": "https://instagram.com/liraf",
+  "linkedin": "https://linkedin.com/in/liraf",
+  "company": [
+    {
+      "name": "Mercado Livre",
+      "position": "Developer",
+      "website": "https://mercadolivre.com.br",
+      "social": {
+        "github": "https://github.com/mercadolibre",
+        "linkedin": "https://www.linkedin.com/company/mercadolibre"
       }
-    ]
-  }
+    }
+  ]
+}
