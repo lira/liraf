@@ -3,13 +3,13 @@
   "website": "https://liraf.dev",
   "twitch": "https://twitch.tv/fndolira",
   "github": "https://github.com/lira",
-  "twitter": "https://twitter.com/liraf",
+  "x": "https://x.com/liraf",
   "instagram": "https://instagram.com/liraf",
   "linkedin": "https://linkedin.com/in/liraf",
   "company": [
     {
       "name": "Mercado Livre",
-      "position": "Developer",
+      "position": "Technical Leader",
       "website": "https://mercadolivre.com.br",
       "social": {
         "github": "https://github.com/mercadolibre",
