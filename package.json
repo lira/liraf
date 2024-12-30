@@ -1,6 +1,6 @@
 {
   "name": "liraf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fernando Lira, the person.",
   "main": "./info.json",
   "bin": {
